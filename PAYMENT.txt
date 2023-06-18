@@ -1,0 +1,6 @@
+body original ={"transactionCode":"PA001","batchId":"AAA","files":[{"fileCode":"PA001","fileName":"02 InstallmentPayment.txt","file":"TVVGMDFQQTAwMTIwMjEwODE4MTUwMDZ8TVVGMjB8MjY0fDg0NzY4MjY1Ny4wNnw2NzEyNzQ0Ni45NA0KMDEwMjE3MjAwNjE4fDIwMjEwODE4fDQ4fDIwMjEwNjAyfDQxNDAwODkuOTF8Mzk2NzYuMDk="}]}
+authorizationVariable =Basic QVBJX01VRjpQQHNzdzByZE11ZjE=
+authenticationVariable =Basic 2EJW9bSFdx1blYz9YwpKvvHY0ixh6WPkT44Fw7s7RN4=
+mac =6eb72c7a339beec80b9b998f2cef6f627b9eb5070efa0545e337e698b04d1331
+rest body =b4Cq1toyupBZF5MBbxamTA3cijWtFRDIp6Bl70zkm0EeneDBInupabrE4ySiLeJTdRZkJ2eAFyHktkzpLa170zxOQjacMpLhOrBSdy2q/nkYLe6q+/9kgMz3PbHHaUD0q14IEjEfeW1D4qC/6wsYsVYeg82dE7SMa5iLM7MN0str7t+gIFEAQfMpqScGEnN9X4cAiHqH8rt5BhQUBQEzR3UMilpxmWn98g/KVBVKEPSlmVRUc2Aqr+ISoZssZI7igmOK2cUR7RVBxr8oSYaf5fhXbtVxNM+lD6fOsUn4L17KbSnISGxYBn1zj2CpsmhnNMUddBVOFpHkSMqHZ5SQWWXdDvcHV9iaW1xrxgBglvGrAYLU+l+i5l5MxyZ21xq7
+base url =https://app07.canalisdev.corp.bankmandiri.co.id/canalis/bmri-core-rest/api/transaction/v.4/payment/
